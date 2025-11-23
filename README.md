@@ -1,4 +1,4 @@
-# VLink API
+# Book Management API
 
 Sistem e-commerce buku dengan authentication, authorization, dan manajemen inventory menggunakan Express.js, MySQL, dan Sequelize.
 
